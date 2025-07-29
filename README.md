@@ -41,6 +41,8 @@ Artificial Intelligence vs. Augmented Intelligence
 - ENABLING PERSONALIZATION
            recommender system is used to analyze big data and then produce recommendation.
       Social media platforms (e.g facebook, instagram) they personalized content based on user interest.
-10 Everyday AI and Machine Learning Use Cases
+  
+10 Everyday AI and Machine Learning Use Cases:
+  1.Text-based quieries can be handle by chabots, which act as victual agents that many business provide on their e-commerce sites.
     
   
