@@ -46,3 +46,33 @@ Artificial Intelligence vs. Augmented Intelligence
   1.Text-based quieries can be handle by chabots, which act as victual agents that many business provide on their e-commerce sites.
     
   
+# Module 
+Amazon uses the Titan model to manage content.
+An image recognition system inspects products for defects on assembly lines, ensuring that only top-quality products are delivered to customers.
+
+
+
+- types of Large Language Models:
+                 -claude model
+                 - Llama model
+                 - GPT-4 model
+                 - Titan Model
+  
+- Supervised learning is a machine learning technique where models are trained using labeled datasets.
+- Unsupervised learning this type of machine learning learns from data without human supervision. it uses self learning algorithms to structure information based on similarities, differences and patterns in data.
+
+- AI can be divided based on its strenghts
+        - Weak (narrow) AI: Specific domains
+        - Strong(generalized) : Diverse capabilities across unrelated task
+        - Super AI : Hypothethical AI that surpasses human intelligence in all domains.
+
+  - Generative AI : is the type of AI that can generate content across various media, such as written text, images, audios, or videos.
+
+  - LLMs are advance neural network architectures for processing and generating human like TEXT.
+  - The capabilities of generative AI including diverse content creation capabilities, human like capabilities, and data augmentation.
+ 
+- Neuro networks : Machine language model that simulates or mimic interconectivity of the human brain. they are design to recognize patterns and make decision in a manner similar to hoe biological neurons work together.
+- Nuerons are organize into layers such as:
+                    - Input layer: Receives the data.
+                    - Hidden layers : Process the data.
+                     - Output Layer : Proviveds the final decision or prediction.
