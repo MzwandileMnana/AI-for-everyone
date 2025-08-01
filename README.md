@@ -76,3 +76,86 @@ An image recognition system inspects products for defects on assembly lines, ens
                     - Input layer: Receives the data.
                     - Hidden layers : Process the data.
                      - Output Layer : Proviveds the final decision or prediction.
+
+
+#AI Cocepts, Terminology, and Application Domains(Module 2)
+     #-Cognitive computing: Mimics human cognitive processes like thinking, reasoning, and problem          solving.
+     -Core elements: 
+              - Perception: Gathering and interpreting data from various source
+              - Learning: Using machine Learning algorithms to analyze data
+              - Reasoning: Making accurate predictions and various decisions based on data analysis.
+     -Cognitive computing Benefits:
+              - Better decision-making
+              - Improved efficiency
+              - Interactive communication
+     -Companies using cognitive computing
+              - IBM
+              - Google
+              - Amazon
+              - JPMorgan Chase
+              - Wells cargo
+   #-Terminologies and Related  Concepts of AI
+              - AI: Simulates human intelligence in Machines.
+                     - Weak AI: Performs specific tasks.
+                     - Strong AI: Possesses human-like cognitive abilities.
+                     - Super AI: Aims to surpass human intelligence.
+              - Machine learning : 
+                     - Utilizes algorithm to analyze data
+                     - Making decisions
+                     - Enables autonomous problem-solving
+              - Deep learning : Analyzes complex data using neaural networks having multiple layers.
+              - Neural networks : A computational model consisting of interconnected nodes.
+   #-Machine learning:
+              - Uses computer algorithms to analyze data and make decisions
+    - Machine learning models evolve
+    # Types of machine learning :
+        - Supervised Learning:
+                     - Trained on labels to classify data
+                     - Becomes more precise with more data
+        - Unspervised Learning:
+                     - Finds patterns in unlabeled data
+                     - Useful for clustering similar data points and detecting anomalies
+        - Reinforcement learning:
+                     - Achieves goals within a set of rules and constraints by maximizing rewards
+                     - Useful for tasks like playing chess or navigating
+   
+   # Machine learning: Techniques and Training
+
+         - Machine Learning categories: (subset of AI)
+                  -Supervised learning: Uses labeled data for modeling
+                  -Unsupervised learning: Discovers patterns in unlabeled data
+                  -Reinforcement learning: Employes a reward system to guide actions
+             -Supervised learning categories:
+                   -Regressiion: Estimates continuous values
+                   -Neural networks: Focusses on discrect values
+            -Training a model:
+                   -Traing set: Trains the algorithm
+                   -Validation set: Fines-tunes and validates the model
+                   -Test set: Evaluates the model's perfomance.
+    # Deep Learning: (subset of Machine Learning)
+                   -Layers algorithms to create a neural network
+                   -Allows AI systems to continuous improve and learn
+                   -Enhances AI's natural language understanding by grasping context and intent
+             -Deep Learnig Excels in various tasks:
+                      -Image captioning
+                      -Voice recognition
+                      -Facial recognition
+                      -Medical imaging
+                      -Language translation
+                      -Drivless cars
+   #Neural Networks: Computational models inspired by the human brain's structure
+              -Consist of input layer, hidden layer, Out layer
+              -Forward propogation:Data processing from input layer, and output layer
+              -Backpropagation:Internal parameters adjusted based on loss.
+
+           -Types of nueral networks:
+              -Perceptron neural network
+              -Feed-foward neural network
+              -Deep feed-foward neural network
+              -Modular neural network
+              -Convolutional neural network
+
+   #Machine Learning VS Deep Learning
+
+          
+        
