@@ -291,8 +291,7 @@ An image recognition system inspects products for defects on assembly lines, ens
 
                               ## Examples
                                            - Computer vision is deployed by Amazon, Walmart, and Alibaba for inventory management and personalize shopping experiance, optimizing operations and enhancing customer satisfaction. Used by Toyota, Siemens, and Bosch integrate computer vision into production lines for quality control and automation, ensuring product consistency and efficiancy. Agriculture companies use it for precision farming, enabling farmers to monitor crop health and optimize fields.
-                                 
-
+                                     
          
               
 
