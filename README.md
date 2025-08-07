@@ -291,6 +291,59 @@ An image recognition system inspects products for defects on assembly lines, ens
 
                               ## Examples
                                            - Computer vision is deployed by Amazon, Walmart, and Alibaba for inventory management and personalize shopping experiance, optimizing operations and enhancing customer satisfaction. Used by Toyota, Siemens, and Bosch integrate computer vision into production lines for quality control and automation, ensuring product consistency and efficiancy. Agriculture companies use it for precision farming, enabling farmers to monitor crop health and optimize fields.
+
+
+### AI and clound computing, Edge Computing, and IoTa(internet of things) :
+
+        - Types of IoT(Internet of things) :
+              1. fitness trackers or smartphones
+              2. Washing machines
+              3. Smart thermostats
+
+        - Their Applications:
+               1. AI-powered traffic lights
+               2. Smart public transport
+               3. Smart agriculture
+               4. Smart buildings
+
+              - IoT devices( Are a network of physical devices to the internet that collect and share data for processing and Analysis)
+                  - These devices can be :
+                         1. Sensors
+                         2. Cameras or other devices that generate data
+                 - How they work (IoT) : IoT devices collect data and send it via the internet to the cloud for Storage and analysis.
+
+            -Cloud computing : allows you to store and use data and services over the internet instead of keeping everything on your computer.
+                   - Main goal of cloud computing is to allow users to access and use powerful computer resources from remote data centers.
+
+
+
+    ### IoT (devices) ---  GENERATE DATA VIA INTERNET --- TO THE --- CLOUD
+
+
+               ###--- AI role in Cloud computing  :
+
+                       - Cloud computing gives us space to analyze data.
+                       - AI algorithms provide smart abilities to find more detailes information in that data, do tasks automatically and make decision based on data.
+                       - Together they help us use data to its fullest. For example, in cloud based emails services, AI analyzes incoming emails to distinguish between spam and legimate messages. Ituses paterns and user behaviour to autimatically move spam mails to the junk folder. This automation improves over time as AI learns from user actions, ensuring users receive fewer unwanted emails.
+
+                       ## NOTE: NOT ALL THE DATA COLLECTED BY THE IoT HAS GO TO THE CLOUD 
+                       ## NOTE : SOMETIMES EDGE COMPUTING IS USED
+
+             ###--- EDGE COMPUTING --: Refers to the practice of processing data closer to the source of generation rather than relying on centralized data centers.
+             
+                        - Where the device processes and makes decisions locally before sending data to the cloud.
+                        - This allows faster decesion making 
+                        - Example of Edge computig : simple thermostat -: Senses temperature and if its cold turns on heater.
+
+                      ##-- EDGE AI : Lives on the device itself rather than relying on cloud. imagine it as a mini brain that livis inside your device.
+                              - Example : could be Security cameras :
+                                                           - Facial recogninition
+                                                           - Alerts for unauthorized personnel
+                                                           
+             
+
+
+    
                                      
          
               
